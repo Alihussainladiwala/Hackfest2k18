@@ -1,0 +1,551 @@
+{
+	"cellserver":"1450333484",
+	"uuid":"90903300-576D-4333-972B-4504154A1B94",
+	"clients":[{
+		"host":"1356260300",
+		"cc":"A.09.09_115",
+		"os":"microsoft amd64 wNT-10.0-S",
+		"docs":"A.09.09",
+		"ts_core":"A.09.09_115",
+		"encryption":1,
+		"platformid":100,
+		"objecttype":6
+	},{
+		"host":"1450333484",
+		"cc":"A.09.09_115",
+		"da":"A.09.09_115",
+		"ma":"A.09.09_115",
+		"os":"microsoft amd64 wNT-6.3-S",
+		"vepa":"A.09.09_116",
+		"autodr":"A.09.09",
+		"cs":"A.09.09_115",
+		"docs":"A.09.09",
+		"pegasus":"A.09.09_115",
+		"ts_core":"A.09.09_115",
+		"ts_cs":"A.09.09_115",
+		"ts_as":"A.09.09_115",
+		"ts_jre":"A.09.09_115",
+		"ws":"A.09.09_115",
+		"encryption":1,
+		"platformid":100,
+		"objecttype":6,
+		"jce_dispatcher":"A.09.09_115",
+		"jce_serviceregistry":"A.09.09_115"
+	},{
+		"host":"2199870519",
+		"da":"A.09.09_115",
+		"ma":"A.09.09_115",
+		"os":"microsoft amd64 wNT-10.0-S",
+		"autodr":"A.09.09",
+		"ts_core":"A.09.09_115",
+		"clust":8,
+		"clus":"A.09.09_115",
+		"encryption":1,
+		"platformid":100,
+		"objecttype":6
+	},{
+		"host":"414847064",
+		"da":"A.09.09_115",
+		"ma":"A.09.09_115",
+		"os":"microsoft amd64 wNT-10.0-S",
+		"autodr":"A.09.09",
+		"ts_core":"A.09.09_115",
+		"clust":1,
+		"clus":"A.09.09_115",
+		"encryption":1,
+		"platformid":100,
+		"objecttype":6
+	},{
+		"host":"1864680104",
+		"da":"A.09.09_115",
+		"ma":"A.09.09_115",
+		"os":"microsoft amd64 wNT-10.0-S",
+		"autodr":"A.09.09",
+		"ts_core":"A.09.09_115",
+		"clust":1,
+		"clus":"A.09.09_115",
+		"encryption":1,
+		"platformid":100,
+		"objecttype":6
+	},{
+		"host":"3853197705",
+		"os":"vmwarehost",
+		"platformid":-1,
+		"objecttype":2,
+		"appserver":{
+			"appserver_type":"vmwarehost",
+			"appserver_subtype":"esx",
+			"appserver_user":"934291015",
+			"appserver_web_root":"/sdk",
+			"appserver_port":"664330157"
+		}
+	},{
+		"host":"2453009273",
+		"os":"vmwarehost",
+		"platformid":-1,
+		"objecttype":2,
+		"appserver":{
+			"appserver_type":"vmwarehost",
+			"appserver_subtype":"esx",
+			"appserver_user":"934291015",
+			"appserver_web_root":"/sdk",
+			"appserver_port":"664330157"
+		}
+	},{
+		"host":"160481046",
+		"os":"vmwarehost",
+		"platformid":-1,
+		"objecttype":2,
+		"appserver":{
+			"appserver_type":"vmwarehost",
+			"appserver_subtype":"esx",
+			"appserver_user":"934291015",
+			"appserver_web_root":"/sdk",
+			"appserver_port":"664330157"
+		}
+	},{
+		"host":"2097698457",
+		"os":"vmwarehost",
+		"platformid":-1,
+		"objecttype":2,
+		"appserver":{
+			"appserver_type":"vmwarehost",
+			"appserver_subtype":"esx",
+			"appserver_user":"934291015",
+			"appserver_web_root":"/sdk",
+			"appserver_port":"664330157"
+		}
+	},{
+		"host":"3870104310",
+		"os":"vmwarehost",
+		"platformid":-1,
+		"objecttype":2,
+		"appserver":{
+			"appserver_type":"vmwarehost",
+			"appserver_subtype":"esx",
+			"appserver_user":"934291015",
+			"appserver_web_root":"/sdk",
+			"appserver_port":"664330157"
+		}
+	},{
+		"host":"2436089862",
+		"os":"vmwarehost",
+		"platformid":-1,
+		"objecttype":2,
+		"appserver":{
+			"appserver_type":"vmwarehost",
+			"appserver_subtype":"esx",
+			"appserver_user":"934291015",
+			"appserver_web_root":"/sdk",
+			"appserver_port":"664330157"
+		}
+	},{
+		"host":"177636457",
+		"os":"vmwarehost",
+		"platformid":-1,
+		"objecttype":2,
+		"appserver":{
+			"appserver_type":"vmwarehost",
+			"appserver_subtype":"esx",
+			"appserver_user":"934291015",
+			"appserver_web_root":"/sdk",
+			"appserver_port":"664330157"
+		}
+	},{
+		"host":"2013403928",
+		"os":"vmwarehost",
+		"platformid":-1,
+		"objecttype":2,
+		"appserver":{
+			"appserver_type":"vmwarehost",
+			"appserver_subtype":"esx",
+			"appserver_user":"934291015",
+			"appserver_web_root":"/sdk",
+			"appserver_port":"664330157"
+		}
+	},{
+		"host":"93821210",
+		"da":"A.09.09_115",
+		"ma":"A.09.09_115",
+		"os":"microsoft amd64 wNT-10.0-S",
+		"vss":"A.09.09",
+		"e2010":"A.09.09",
+		"ts_core":"A.09.09_115",
+		"clust":1,
+		"clus":"A.09.09_115",
+		"encryption":1,
+		"platformid":100,
+		"objecttype":6
+	},{
+		"host":"1913211882",
+		"da":"A.09.09_115",
+		"ma":"A.09.09_115",
+		"os":"microsoft amd64 wNT-10.0-S",
+		"vss":"A.09.09",
+		"e2010":"A.09.09",
+		"exchgre":"A.09.09",
+		"ts_core":"A.09.09_115",
+		"clust":1,
+		"clus":"A.09.09_115",
+		"encryption":1,
+		"platformid":100,
+		"objecttype":6
+	},{
+		"host":"3138451023",
+		"da":"A.09.09_115",
+		"ma":"A.09.09_115",
+		"os":"microsoft amd64 wNT-10.0-S",
+		"vss":"A.09.09",
+		"e2010":"A.09.09",
+		"ts_core":"A.09.09_115",
+		"clust":8,
+		"clus":"A.09.09_115",
+		"encryption":1,
+		"platformid":100,
+		"objecttype":6
+	},{
+		"host":"353967272",
+		"da":"A.09.09_115",
+		"ma":"A.09.09_115",
+		"os":"microsoft amd64 wNT-10.0-S",
+		"autodr":"A.09.09",
+		"ts_core":"A.09.09_115",
+		"clust":8,
+		"clus":"A.09.09_115",
+		"encryption":1,
+		"platformid":100,
+		"objecttype":6
+	},{
+		"host":"2941420346",
+		"os":"vmwarehost",
+		"platformid":-1,
+		"objecttype":2,
+		"appserver":{
+			"appserver_type":"vmwarehost",
+			"appserver_subtype":"vcenter",
+			"appserver_user":"304434347",
+			"appserver_web_root":"/sdk",
+			"appserver_port":"664330157"
+		}
+	}],
+	"schedule":[{
+		"frequency":[365,0,626,0,0,0,0,0,0,0,0],
+		"sessionType":0,
+		"schGroupName":"OB2"
+	},{
+		"frequency":[1512,0,0,0,0,0,0,0,0,0,0],
+		"sessionType":0,
+		"schGroupName":"VEAgent"
+	},{
+		"frequency":[365,365,0,0,0,0,0,0,0,0,0],
+		"sessionType":0,
+		"schGroupName":"E2010"
+	},{
+		"frequency":[365,0,0,0,0,0,0,0,0,0,0],
+		"sessionType":16,
+		"schGroupName":"sch_copy"
+	}],
+	"mediaserver":[{
+		"hostname":"1450333484",
+		"libraryname":"1960107407",
+		"devicename":"3604192210",
+		"poolname":"1960107407",
+		"devicetype":"Backup To Disk StoreOnce Backup system",
+		"usage":"16094362428 KB"
+	},{
+		"hostname":"1450333484",
+		"libraryname":"2059897911",
+		"devicename":"3305429798",
+		"poolname":"2059897911",
+		"devicetype":"Backup To Disk StoreOnce Backup system",
+		"usage":"18943045 KB"
+	},{
+		"hostname":"1450333484",
+		"libraryname":"1150530738",
+		"devicename":"711228714",
+		"poolname":"1150530738",
+		"devicetype":"Backup To Disk StoreOnce Backup system"
+	},{
+		"hostname":"1450333484",
+		"libraryname":"3406927117",
+		"devicename":"1320538479",
+		"poolname":"3406927117",
+		"devicetype":"Backup To Disk StoreOnce Backup system",
+		"usage":"2736460803 KB"
+	},{
+		"hostname":"1450333484",
+		"libraryname":"3978939287",
+		"devicename":"818666439",
+		"poolname":"640755294",
+		"devicetype":"SCSI Library LTO-Ultrium",
+		"usage":"21033730560 KB"
+	}],
+	"licensescategory":[{
+		"category":"Cell Manager for UNIX",
+		"numberoflicenses":0
+	},{
+		"category":"Cell Manager for Windows / Linux",
+		"numberoflicenses":1
+	},{
+		"category":"Single Drive for UNIX / NAS / SAN",
+		"numberoflicenses":0
+	},{
+		"category":"Single Drive for Windows / Linux",
+		"numberoflicenses":2
+	},{
+		"category":"Multi-Drive Server for UNIX",
+		"numberoflicenses":0
+	},{
+		"category":"Multi-Drive Server for Windows ",
+		"numberoflicenses":0
+	},{
+		"category":"On-line Extension for ONE UNIX system",
+		"numberoflicenses":0
+	},{
+		"category":"On-line Extension for ONE Windows / Linux system",
+		"numberoflicenses":0
+	},{
+		"category":"Manager-of-Managers Extension for UNIX",
+		"numberoflicenses":0
+	},{
+		"category":"Manager-of-Managers Extension for Windows / Linux",
+		"numberoflicenses":0
+	},{
+		"category":"Extension for ONE 61-250 Slot Library for UNIX",
+		"numberoflicenses":0
+	},{
+		"category":"Extension for ONE 61-250 Slot Library for Windows",
+		"numberoflicenses":0
+	},{
+		"category":"Extension for ONE Unlimited Slot Library UNIX",
+		"numberoflicenses":0
+	},{
+		"category":"Extension for ONE Unlimited Slot Library Windows",
+		"numberoflicenses":0
+	},{
+		"category":"Split Mirror Extension for ONE EMC Symmetrix",
+		"numberoflicenses":0
+	},{
+		"category":"Split Mirror Extension for ONE HPE XP",
+		"numberoflicenses":0
+	},{
+		"category":"Single Server Edition for UNIX",
+		"numberoflicenses":0
+	},{
+		"category":"Single Server Edition for Windows",
+		"numberoflicenses":0
+	},{
+		"category":"On-line Extension for ONE UNIX system",
+		"numberoflicenses":0
+	},{
+		"category":"On-line Extension for ONE Windows / Linux system",
+		"numberoflicenses":10
+	},{
+		"category":"Extension for ONE 61-250 Slot Library",
+		"numberoflicenses":0
+	},{
+		"category":"Extension for ONE 61-250 Slot Library for Windows",
+		"numberoflicenses":0
+	},{
+		"category":"Extension for ONE Unlimited Slot Library",
+		"numberoflicenses":0
+	},{
+		"category":"Extension for ONE Unlimited Slot Library for Windows",
+		"numberoflicenses":0
+	},{
+		"category":"Split Mirror Extension for ONE EMC Symmetrix",
+		"numberoflicenses":0
+	},{
+		"category":"Split Mirror Extension for ONE HPE XP",
+		"numberoflicenses":0
+	},{
+		"category":"Extension for ONE NDMP Server",
+		"numberoflicenses":0
+	},{
+		"category":"Zero Downtime Backup Extension for 1 TB EMC Symmetrix",
+		"numberoflicenses":0
+	},{
+		"category":"Zero Downtime Backup Extension for 1 TB HPE StorageWorks disk array XP",
+		"numberoflicenses":0
+	},{
+		"category":"HPE Data Protector zero downtime backup (ZDB) extension for UNIX - 1 TB",
+		"numberoflicenses":0
+	},{
+		"category":"Instant Recovery Extension for 1 TB HPE StorageWorks disk array XP",
+		"numberoflicenses":0
+	},{
+		"category":"HPE Data Protector instant recovery extension for UNIX - 1 TB",
+		"numberoflicenses":0
+	},{
+		"category":"Direct Backup Extension for 1 TB HPE StorageWorks disk array XP or compatible",
+		"numberoflicenses":0
+	},{
+		"category":"Direct Backup using NDMP for 1 TB",
+		"numberoflicenses":0
+	},{
+		"category":"Direct Backup Extension for 1 TB HPE Surestore VA ",
+		"numberoflicenses":0
+	},{
+		"category":"Zero Downtime Backup Extension for 1 TB HPE StorageWorks Smart Array MSA 1000",
+		"numberoflicenses":0
+	},{
+		"category":"Instant Recovery Extension for 1 TB HPE StorageWorks Smart Array MSA 1000",
+		"numberoflicenses":0
+	},{
+		"category":"Advanced backup to disk",
+		"numberoflicenses":30
+	},{
+		"category":"Backup to HPE IAP",
+		"numberoflicenses":0
+	},{
+		"category":"Encryption Extension for one client system",
+		"numberoflicenses":0
+	},{
+		"category":"HPE DP Granular Recovery Extension",
+		"numberoflicenses":1
+	},{
+		"category":"HPE Data Protector zero downtime backup (ZDB) extension for Windows - 1 TB",
+		"numberoflicenses":0
+	},{
+		"category":"HPE Data Protector instant recovery extension for Windows - 1 TB",
+		"numberoflicenses":0
+	},{
+		"category":"HPE Data Protector zero downtime backup (ZDB) extension for Linux - 1 TB",
+		"numberoflicenses":0
+	},{
+		"category":"HPE Data Protector instant recovery extension for Linux - 1 TB",
+		"numberoflicenses":0
+	},{
+		"category":"HPE Data Protector Zero Downtime Backup non HPE arrays Unix 1TB",
+		"numberoflicenses":0
+	},{
+		"category":"HPE Data Protector Zero Downtime Backup non HPE arrays Linux 1TB",
+		"numberoflicenses":0
+	},{
+		"category":"HPE Data Protector Zero Downtime Backup non HPE arrays Windows 1TB",
+		"numberoflicenses":0
+	},{
+		"category":"HPE Data Protector Instant Recovery non HPE arrays Unix 1TB",
+		"numberoflicenses":0
+	},{
+		"category":"HPE Data Protector Instant Recovery non HPE arrays Linux 1TB",
+		"numberoflicenses":0
+	},{
+		"category":"HPE Data Protector Instant Recovery non HPE arrays Windows 1TB",
+		"numberoflicenses":0
+	},{
+		"category":"HPE Data Protector Extended On-line Backup for Win/Lin Software",
+		"numberoflicenses":0
+	}],
+	"capacitybasedlicensing":[{
+		"backuptype":"MS Exchange 2010",
+		"totalprotecteddata":"3 GB"
+	},{
+		"backuptype":"MS Filesystem",
+		"totalprotecteddata":"176 GB"
+	},{
+		"backuptype":"Virtual Environment",
+		"totalprotecteddata":"1672 GB"
+	}],
+	"backupsize":[{
+		"hostname":"1450333484",
+		"application":"1663364236",
+		"totalsize":"1543881614 KB",
+		"objecttype":"WINFS"
+	},{
+		"hostname":"414847064",
+		"application":"855287807",
+		"totalsize":"552782019 KB",
+		"objecttype":"WINFS"
+	},{
+		"hostname":"2941420346",
+		"application":"1056441302",
+		"totalsize":"12202 KB",
+		"objecttype":"OB2BAR"
+	},{
+		"hostname":"3138451023",
+		"application":"249443741",
+		"totalsize":"0 KB",
+		"objecttype":"OB2BAR"
+	},{
+		"hostname":"353967272",
+		"application":"148009704",
+		"totalsize":"44 KB",
+		"objecttype":"WINFS"
+	},{
+		"hostname":"1864680104",
+		"application":"2125360487",
+		"totalsize":"8223470 KB",
+		"objecttype":"WINFS"
+	},{
+		"hostname":"1450333484",
+		"application":"1801809228",
+		"totalsize":"1520 KB",
+		"objecttype":"WINFS"
+	},{
+		"hostname":"414847064",
+		"application":"1153428395",
+		"totalsize":"94636897 KB",
+		"objecttype":"WINFS"
+	},{
+		"hostname":"1450333484",
+		"application":"1938562290",
+		"totalsize":"227139584 KB",
+		"objecttype":"OB2BAR"
+	},{
+		"hostname":"1864680104",
+		"application":"3786899655",
+		"totalsize":"88430130 KB",
+		"objecttype":"WINFS"
+	},{
+		"hostname":"2941420346",
+		"application":"2441052962",
+		"totalsize":"32125388575 KB",
+		"objecttype":"OB2BAR"
+	},{
+		"hostname":"1450333484",
+		"application":"3337866443",
+		"totalsize":"116917874 KB",
+		"objecttype":"WINFS"
+	},{
+		"hostname":"414847064",
+		"application":"880811417",
+		"totalsize":"8816330 KB",
+		"objecttype":"WINFS"
+	},{
+		"hostname":"1450333484",
+		"application":"3482428288",
+		"totalsize":"3674230196 KB",
+		"objecttype":"WINFS"
+	},{
+		"hostname":"1864680104",
+		"application":"1633746043",
+		"totalsize":"536447406 KB",
+		"objecttype":"WINFS"
+	},{
+		"hostname":"1913211882",
+		"application":"1393954302",
+		"totalsize":"21354114 KB",
+		"objecttype":"OB2BAR"
+	},{
+		"hostname":"1450333484",
+		"application":"2667238653",
+		"totalsize":"312708 KB",
+		"objecttype":"WINFS"
+	},{
+		"hostname":"353967272",
+		"application":"340444991",
+		"totalsize":"965166254 KB",
+		"objecttype":"WINFS"
+	},{
+		"hostname":"1450333484",
+		"application":"103708831",
+		"totalsize":"307196 KB",
+		"objecttype":"RAWDISK"
+	},{
+		"hostname":"93821210",
+		"application":"1393954302",
+		"totalsize":"15489485 KB",
+		"objecttype":"OB2BAR"
+	}]
+}

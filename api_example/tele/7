@@ -1,0 +1,28 @@
+{
+	"cellserver":"1267974791",
+	"uuid":"error",
+	"clients":[{
+		"host":"1267974791",
+		"cc":"A.10.02",
+		"da":"A.10.02",
+		"ma":"A.10.02",
+		"os":"linux [3.0.101-50-default]",
+		"saphana":"A.10.02",
+		"cs":"A.10.02",
+		"docs":"A.10.02",
+		"ts_core":"A.10.02",
+		"ts_cs":"A.10.02",
+		"ts_as":"A.10.02",
+		"ts_jre":"A.10.02",
+		"ws":"A.10.02",
+		"core":"A.10.02",
+		"integ":"A.10.02",
+		"platformid":3,
+		"objecttype":2,
+		"storeoncesoftware":"A.10.02",
+		"jce_dispatcher":"A.10.02",
+		"jce_serviceregistry":"A.10.02"
+	}],
+	"licensescategory":[],
+	"mediaserver":[]
+}

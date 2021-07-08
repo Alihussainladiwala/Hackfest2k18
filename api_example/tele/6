@@ -1,0 +1,84 @@
+{
+	"cellserver":"779668078",
+	"uuid":"332E96BC-AE61-4296-B913-0E689A8569BA",
+	"clients":[{
+		"host":"779668078",
+		"cc":"A.10.04",
+		"da":"A.10.04",
+		"ma":"A.10.04",
+		"os":"Windows Server 2016",
+		"cs":"A.10.04",
+		"docs":"A.10.04",
+		"ts_core":"A.10.04",
+		"ts_cs":"A.10.04",
+		"ts_as":"A.10.04",
+		"ts_jre":"A.10.04",
+		"ws":"A.10.04",
+		"platformid":100,
+		"objecttype":6,
+		"jce_dispatcher":"A.10.04",
+		"jce_serviceregistry":"A.10.04"
+	}],
+	"mediaserver":[{
+		"hostname":"779668078",
+		"libraryname":"3538139093",
+		"devicename":"3790067262",
+		"poolname":"2168520640",
+		"devicetype":"File Library File",
+		"usage":"1761280 KB"
+	},{
+		"hostname":"779668078",
+		"libraryname":"295109364",
+		"devicename":"1557225850",
+		"poolname":"1899677857",
+		"devicetype":"Jukebox File",
+		"usage":"0 KB"
+	},{
+		"hostname":"779668078",
+		"libraryname":"3665689317",
+		"devicename":"3766677750",
+		"poolname":"1899677857",
+		"devicetype":"Jukebox File",
+		"usage":"1844736 KB"
+	},{
+		"hostname":"779668078",
+		"libraryname":"3450422669",
+		"devicename":"3635821796",
+		"poolname":"3125338210",
+		"devicetype":"File Library File",
+		"usage":"112128 KB"
+	}],
+	"licensescategory":[{
+		"category":"Cell Manager for Windows / Linux",
+		"licenseType":"online",
+		"hosts":[{
+			"hostName":"779668078",
+			"component":"Cell Manager Component",
+			"licensesUsed":"1"
+		}],
+		"chargeable":"yes",
+		"totalLicensesInstalled":"0",
+		"totalLicensesUsed":"1"
+	},{
+		"category":"Single Drive for Windows / Linux",
+		"licenseType":"online",
+		"hosts":[{
+			"hostName":"779668078",
+			"component":"General Media Agent",
+			"licensesUsed":"1"
+		}],
+		"chargeable":"yes",
+		"totalLicensesInstalled":"0",
+		"totalLicensesUsed":"2"
+	}],
+	"capacitybasedlicensing":[{
+		"backuptype":"MS Filesystem",
+		"totalprotecteddata":"0 GB"
+	}],
+	"backupsize":[{
+		"hostname":"779668078",
+		"application":"492356980",
+		"totalsize":"1757574 KB",
+		"objecttype":"WINFS"
+	}]
+}

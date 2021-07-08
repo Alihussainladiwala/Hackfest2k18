@@ -1,0 +1,217 @@
+{
+	"cellserver":"3602547160",
+	"uuid":"BE9CA300-5F3C-4DB4-AD34-F0E392F322FC",
+	"clients":[{
+		"host":"3991824736",
+		"os":"vmwarehost",
+		"platformid":-1,
+		"objecttype":2,
+		"appserver":{
+			"appserver_type":"vmwarehost",
+			"appserver_subtype":"vcenter",
+			"appserver_user":"administrator@vsphere.local",
+			"appserver_web_root":"/sdk",
+			"appserver_port":443
+		}
+	},{
+		"host":"3602547160",
+		"cc":"A.09.09",
+		"da":"A.09.09",
+		"ma":"A.09.09",
+		"os":"microsoft amd64 wNT-6.3-S",
+		"vepa":"A.09.09",
+		"cs":"A.09.09",
+		"docs":"A.09.09",
+		"pegasus":"A.09.09",
+		"ts_core":"A.09.09",
+		"ts_cs":"A.09.09",
+		"ts_as":"A.09.09",
+		"ts_jre":"A.09.09",
+		"ws":"A.09.09",
+		"platformid":100,
+		"objecttype":6,
+		"jce_dispatcher":"A.09.09",
+		"jce_serviceregistry":"A.09.09",
+		"vmwaregre_agent":"A.09.09"
+	}],
+	"mediaserver":[{
+		"hostname":"3602547160",
+		"libraryname":"VSA",
+		"devicename":"VSA_gw1",
+		"poolname":"VSA_MediaPool",
+		"devicetype":"Backup To Disk StoreOnce Backup system",
+		"usage":"668370 KB"
+	}],
+	"licensescategory":[{
+		"category":"Cell Manager for UNIX",
+		"numberoflicenses":1
+	},{
+		"category":"Cell Manager for Windows / Linux",
+		"numberoflicenses":1
+	},{
+		"category":"Single Drive for UNIX / NAS / SAN",
+		"numberoflicenses":999
+	},{
+		"category":"Single Drive for Windows / Linux",
+		"numberoflicenses":999
+	},{
+		"category":"Multi-Drive Server for UNIX",
+		"numberoflicenses":0
+	},{
+		"category":"Multi-Drive Server for Windows ",
+		"numberoflicenses":0
+	},{
+		"category":"On-line Extension for ONE UNIX system",
+		"numberoflicenses":0
+	},{
+		"category":"On-line Extension for ONE Windows / Linux system",
+		"numberoflicenses":0
+	},{
+		"category":"Manager-of-Managers Extension for UNIX",
+		"numberoflicenses":999
+	},{
+		"category":"Manager-of-Managers Extension for Windows / Linux",
+		"numberoflicenses":999
+	},{
+		"category":"Extension for ONE 61-250 Slot Library for UNIX",
+		"numberoflicenses":1
+	},{
+		"category":"Extension for ONE 61-250 Slot Library for Windows",
+		"numberoflicenses":1
+	},{
+		"category":"Extension for ONE Unlimited Slot Library UNIX",
+		"numberoflicenses":0
+	},{
+		"category":"Extension for ONE Unlimited Slot Library Windows",
+		"numberoflicenses":0
+	},{
+		"category":"Split Mirror Extension for ONE EMC Symmetrix",
+		"numberoflicenses":0
+	},{
+		"category":"Split Mirror Extension for ONE HPE XP",
+		"numberoflicenses":0
+	},{
+		"category":"Single Server Edition for UNIX",
+		"numberoflicenses":0
+	},{
+		"category":"Single Server Edition for Windows",
+		"numberoflicenses":0
+	},{
+		"category":"On-line Extension for ONE UNIX system",
+		"numberoflicenses":999
+	},{
+		"category":"On-line Extension for ONE Windows / Linux system",
+		"numberoflicenses":999
+	},{
+		"category":"Extension for ONE 61-250 Slot Library",
+		"numberoflicenses":999
+	},{
+		"category":"Extension for ONE 61-250 Slot Library for Windows",
+		"numberoflicenses":999
+	},{
+		"category":"Extension for ONE Unlimited Slot Library",
+		"numberoflicenses":999
+	},{
+		"category":"Extension for ONE Unlimited Slot Library for Windows",
+		"numberoflicenses":999
+	},{
+		"category":"Split Mirror Extension for ONE EMC Symmetrix",
+		"numberoflicenses":0
+	},{
+		"category":"Split Mirror Extension for ONE HPE XP",
+		"numberoflicenses":0
+	},{
+		"category":"Extension for ONE NDMP Server",
+		"numberoflicenses":0
+	},{
+		"category":"Zero Downtime Backup Extension for 1 TB EMC Symmetrix",
+		"numberoflicenses":0
+	},{
+		"category":"Zero Downtime Backup Extension for 1 TB HPE StorageWorks disk array XP",
+		"numberoflicenses":0
+	},{
+		"category":"HPE Data Protector zero downtime backup (ZDB) extension for UNIX - 1 TB",
+		"numberoflicenses":999
+	},{
+		"category":"Instant Recovery Extension for 1 TB HPE StorageWorks disk array XP",
+		"numberoflicenses":0
+	},{
+		"category":"HPE Data Protector instant recovery extension for UNIX - 1 TB",
+		"numberoflicenses":999
+	},{
+		"category":"Direct Backup Extension for 1 TB HPE StorageWorks disk array XP or compatible",
+		"numberoflicenses":999
+	},{
+		"category":"Direct Backup using NDMP for 1 TB",
+		"numberoflicenses":999
+	},{
+		"category":"Direct Backup Extension for 1 TB HPE Surestore VA ",
+		"numberoflicenses":999
+	},{
+		"category":"Zero Downtime Backup Extension for 1 TB HPE StorageWorks Smart Array MSA 1000",
+		"numberoflicenses":0
+	},{
+		"category":"Instant Recovery Extension for 1 TB HPE StorageWorks Smart Array MSA 1000",
+		"numberoflicenses":0
+	},{
+		"category":"Advanced backup to disk",
+		"numberoflicenses":999
+	},{
+		"category":"Backup to HPE IAP",
+		"numberoflicenses":0
+	},{
+		"category":"Encryption Extension for one client system",
+		"numberoflicenses":0
+	},{
+		"category":"HPE DP Granular Recovery Extension",
+		"numberoflicenses":999
+	},{
+		"category":"HPE Data Protector zero downtime backup (ZDB) extension for Windows - 1 TB",
+		"numberoflicenses":999
+	},{
+		"category":"HPE Data Protector instant recovery extension for Windows - 1 TB",
+		"numberoflicenses":999
+	},{
+		"category":"HPE Data Protector zero downtime backup (ZDB) extension for Linux - 1 TB",
+		"numberoflicenses":999
+	},{
+		"category":"HPE Data Protector instant recovery extension for Linux - 1 TB",
+		"numberoflicenses":999
+	},{
+		"category":"HPE Data Protector Zero Downtime Backup non HPE arrays Unix 1TB",
+		"numberoflicenses":999
+	},{
+		"category":"HPE Data Protector Zero Downtime Backup non HPE arrays Linux 1TB",
+		"numberoflicenses":999
+	},{
+		"category":"HPE Data Protector Zero Downtime Backup non HPE arrays Windows 1TB",
+		"numberoflicenses":999
+	},{
+		"category":"HPE Data Protector Instant Recovery non HPE arrays Unix 1TB",
+		"numberoflicenses":999
+	},{
+		"category":"HPE Data Protector Instant Recovery non HPE arrays Linux 1TB",
+		"numberoflicenses":999
+	},{
+		"category":"HPE Data Protector Instant Recovery non HPE arrays Windows 1TB",
+		"numberoflicenses":999
+	},{
+		"category":"HPE Data Protector Extended On-line Backup for Win/Lin Software",
+		"numberoflicenses":999
+	}],
+	"capacitybasedlicensing":[{
+		"backuptype":"Virtual Environment",
+		"totalprotecteddata":"0 GB"
+	}],
+	"backupsize":[{
+		"hostname":"3991824736",
+		"application":"VEAgent",
+		"totalsize":"4 KB",
+		"objecttype":"OB2BAR"
+	},{
+		"hostname":"3991824736",
+		"application":"VEAgentDisk",
+		"totalsize":"669702 KB",
+		"objecttype":"OB2BAR"
+	}]
+}

@@ -1,0 +1,71 @@
+clients,os,ver,osid
+3991824736,vmwarehost,-1,V
+1095970645,gpl x86_64 linux-3.10.0-327.36.3.el7.x86_64,A.09.09_115,L
+105477465,microsoft amd64 wNT-6.1-S,A.09.09_115,W
+1758419795,microsoft amd64 wNT-6.1-S,A.09.09_115,W
+1020508142,gpl i686 linux-2.6.5-7.244-smp,A.09.09_115,L
+3775440337,microsoft amd64 wNT-6.1-S,A.09.09_115,W
+3862551532,microsoft amd64 wNT-6.1-S,A.09.09_115,W
+371209861,microsoft amd64 wNT-6.1-S,A.09.09_115,W
+2376166327,microsoft amd64 wNT-6.1-W,A.09.09_115,W
+828690454,microsoft amd64 wNT-10.0-W,A.09.09_115,W
+571804923,microsoft amd64 wNT-6.1-W,A.09.09_115,W
+2377924913,microsoft amd64 wNT-6.1-W,A.09.09_115,W
+3338989987,microsoft i386 wNT-6.1-W,A.09.09_115,W
+2269535002,microsoft amd64 wNT-6.1-W,A.09.06,W
+2005009797,microsoft amd64 wNT-6.1-W,A.09.09_115,W
+2218764205,microsoft amd64 wNT-6.1-W,A.09.09_115,W
+2859870118,gpl x86_64 linux-2.6.32-200.13.1.el5uek,A.09.09_115,L
+1970853726,gpl i686 linux-2.6.5-7.311-smp,A.09.09_115,L
+3474271421,gpl i686 linux-2.6.16.60-0.54.5-default,A.09.09_115,L
+1740940014,gpl i686 linux-2.6.16.60-0.54.5-default,A.09.09_115,L
+3155434071,microsoft amd64 wNT-6.1-S,A.09.09_115,W
+3843651937,microsoft amd64 wNT-6.1-S,A.09.09_115,W
+1388273743,microsoft amd64 wNT-6.1-S,A.09.06,W
+1771317661,vmwarehost,A.09.06,V
+2631566561,gpl x86_64 linux-3.10.0-514.10.2.el7.x86_64,A.09.09_115,L
+3833395298,microsoft amd64 wNT-6.1-S,A.09.09_115,W
+1272296872,microsoft amd64 wNT-6.1-S,A.09.09_115,W
+783453934,microsoft amd64 wNT-6.1-S,A.09.09_115,W
+2297473074,microsoft amd64 wNT-6.1-S,A.09.09_115,W
+2377867216,microsoft amd64 wNT-6.1-S,A.09.09_115,W
+372070321,microsoft amd64 wNT-6.1-S,A.09.09_115,W
+3438288951,microsoft i386 wNT-5.1-W,A.09.09_115,W
+3532783668,microsoft amd64 wNT-6.1-S,A.09.09_115,W
+2101038590,microsoft amd64 wNT-6.1-S,A.09.09_115,W
+1774519110,microsoft amd64 wNT-6.1-S,A.09.09_115,W
+3328986764,microsoft amd64 wNT-6.1-S,A.09.09_115,W
+2832684916,microsoft amd64 wNT-6.1-S,A.09.09_115,W
+3406602938,vmwarehost,A.09.09_115,V
+3490780195,microsoft amd64 wNT-6.1-S,A.09.09_115,W
+3888001324,microsoft amd64 wNT-6.1-S,A.09.09_115,W
+1209498854,microsoft amd64 wNT-6.1-S,A.09.09_115,W
+2219604820,microsoft amd64 wNT-6.1-W,A.09.09_115,W
+1356260300,microsoft amd64 wNT-10.0-S,A.09.09_115,W
+2199870519,microsoft amd64 wNT-10.0-S,A.09.09_115,W
+414847064,microsoft amd64 wNT-10.0-S,A.09.09_115,W
+1864680104,microsoft amd64 wNT-10.0-S,A.09.09_115,W
+3853197705,vmwarehost,A.09.09_115,V
+2453009273,vmwarehost,A.09.09_115,V
+160481046,vmwarehost,A.09.09_115,V
+2097698457,vmwarehost,A.09.09_115,V
+3870104310,vmwarehost,A.09.09_115,V
+2436089862,vmwarehost,A.09.09_115,V
+177636457,vmwarehost,A.09.09_115,V
+2013403928,vmwarehost,A.09.09_115,V
+93821210,microsoft amd64 wNT-10.0-S,A.09.09_115,W
+1913211882,microsoft amd64 wNT-10.0-S,A.09.09_115,W
+3138451023,microsoft amd64 wNT-10.0-S,A.09.09_115,W
+353967272,microsoft amd64 wNT-10.0-S,A.09.09_115,W
+2941420346,vmwarehost,A.09.09_115,V
+957042299,vmwarehost,A.10.10,V
+1635688274,vmwarehost,A.10.10,V
+2978368677,vmwarehost,A.10.10,V
+822194068,h3ccas,A.10.10,0
+1626583012,hp ia64 hp-ux-11.31,A.09.10,H
+1373387818,microsoft amd64 wNT-6.1-S,A.09.10,W
+3396956229,microsoft amd64 wNT-6.3-S,A.09.10,W
+4174515232,microsoft amd64 wNT-6.1-S,A.09.10,W
+2404179664,microsoft amd64 wNT-6.3-S,A.09.10,W
+4045370454,microsoft amd64 wNT-6.1-S,A.09.10,W
+3951402952,gpl x86_64 linux-3.0.101-63-default,A.09.10,L

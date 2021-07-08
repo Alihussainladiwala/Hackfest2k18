@@ -1,0 +1,396 @@
+{
+	"cellserver":"868208683",
+	"uuid":"B188DEA2-F00A-4312-B0FF-43E67D4B6985",
+	"clients":[{
+		"host":"1626583012",
+		"cc":"A.09.10",
+		"da":"A.09.10",
+		"ma":"A.09.10",
+		"os":"hp ia64 hp-ux-11.31",
+		"ts_core":"A.09.10",
+		"core":"A.09.10",
+		"platformid":22,
+		"objecttype":2
+	},{
+		"host":"1373387818",
+		"cc":"A.09.10",
+		"da":"A.09.10",
+		"ma":"A.09.10",
+		"os":"microsoft amd64 wNT-6.1-S",
+		"vepa":"A.09.10",
+		"pegasus":"A.09.10",
+		"ts_core":"A.09.10",
+		"platformid":100,
+		"objecttype":6,
+		"mac":"0050568D7B14"
+	},{
+		"host":"3396956229",
+		"cc":"A.09.10",
+		"da":"A.09.10",
+		"ma":"A.09.10",
+		"os":"microsoft amd64 wNT-6.3-S",
+		"mssql70":"A.09.10",
+		"ts_core":"A.09.10",
+		"platformid":100,
+		"objecttype":6,
+		"mac":"0050568D1BA5"
+	},{
+		"host":"4174515232",
+		"cc":"A.09.10",
+		"da":"A.09.10",
+		"ma":"A.09.10",
+		"os":"microsoft amd64 wNT-6.1-S",
+		"oracle8":"A.09.10",
+		"ts_core":"A.09.10",
+		"platformid":100,
+		"objecttype":6,
+		"mac":"000C298E9888"
+	},{
+		"host":"2404179664",
+		"cc":"A.09.10",
+		"da":"A.09.10",
+		"ma":"A.09.10",
+		"os":"microsoft amd64 wNT-6.3-S",
+		"mssql70":"A.09.10",
+		"ts_core":"A.09.10",
+		"platformid":100,
+		"objecttype":6,
+		"mac":"000C29762A4E"
+	},{
+		"host":"4045370454",
+		"cc":"A.09.10",
+		"da":"A.09.10",
+		"ma":"A.09.10",
+		"os":"microsoft amd64 wNT-6.1-S",
+		"vepa":"A.09.10",
+		"pegasus":"A.09.10",
+		"ts_core":"A.09.10",
+		"platformid":100,
+		"objecttype":6,
+		"mac":"000C297E20D7"
+	},{
+		"host":"868208683",
+		"cc":"A.09.10",
+		"da":"A.09.10",
+		"ma":"A.09.10",
+		"os":"microsoft amd64 wNT-6.1-S",
+		"cs":"A.09.10",
+		"docs":"A.09.10",
+		"ts_core":"A.09.10",
+		"ts_cs":"A.09.10",
+		"ts_as":"A.09.10",
+		"ts_jre":"A.09.10",
+		"ws":"A.09.10",
+		"platformid":100,
+		"objecttype":6,
+		"jce_dispatcher":"A.09.10",
+		"jce_serviceregistry":"A.09.10",
+		"keycloak":"A.09.10",
+		"mac":"0050568E4FFE"
+	},{
+		"host":"3951402952",
+		"cc":"A.09.10",
+		"da":"A.09.10",
+		"ma":"A.09.10",
+		"os":"gpl x86_64 linux-3.0.101-63-default",
+		"sap":"A.09.10",
+		"oracle8":"A.09.10",
+		"ts_core":"A.09.10",
+		"core":"A.09.10",
+		"integ":"A.09.10",
+		"platformid":3,
+		"objecttype":2
+	}],
+	"mediaserver":[{
+		"hostname":"868208683",
+		"libraryname":"FL1",
+		"devicename":"FL1_Writer0",
+		"poolname":"FL1_MediaPool",
+		"devicetype":"File Library File",
+		"usage":"906240 KB"
+	},{
+		"hostname":"868208683",
+		"libraryname":"FL2",
+		"devicename":"FL2_Writer0",
+		"poolname":"FL2_MediaPool",
+		"devicetype":"File Library File",
+		"usage":"3573504 KB"
+	},{
+		"hostname":"3743419841",
+		"libraryname":"FL3",
+		"devicename":"FL3_Writer0",
+		"poolname":"FL3_MediaPool",
+		"devicetype":"File Library File",
+		"usage":"248576 KB"
+	},{
+		"hostname":"4174515232",
+		"libraryname":"Jukebox1",
+		"devicename":"Jukebox1_Drive1",
+		"poolname":"Jukebox1_MediaPool",
+		"devicetype":"Jukebox File",
+		"usage":"75776 KB"
+	},null,{
+		"hostname":"868208683",
+		"libraryname":"Jukebox2",
+		"devicename":"Jukebox2_Drive1",
+		"poolname":"Jukebox2_MediaPool",
+		"devicetype":"Jukebox File",
+		"usage":"2816 KB"
+	},null,{
+		"hostname":"3743419841",
+		"libraryname":"VLS1",
+		"devicename":"VLS1_Drive1",
+		"poolname":"VLS1_MediaPool",
+		"devicetype":"SCSI Library LTO-Ultrium",
+		"usage":"2101504 KB"
+	},null,{
+		"hostname":"3743419841",
+		"libraryname":"VLS2",
+		"devicename":"VLS2_Drive1",
+		"poolname":"VLS2_MediaPool",
+		"devicetype":"SCSI Library LTO-Ultrium",
+		"usage":"5529088 KB"
+	},null],
+	"licensescategory":[{
+		"category":"Cell Manager for UNIX",
+		"numberoflicenses":1
+	},{
+		"category":"Cell Manager for Windows / Linux",
+		"numberoflicenses":1
+	},{
+		"category":"Single Drive for UNIX / NAS / SAN",
+		"numberoflicenses":999
+	},{
+		"category":"Single Drive for Windows / Linux",
+		"numberoflicenses":999
+	},{
+		"category":"Multi-Drive Server for UNIX",
+		"numberoflicenses":0
+	},{
+		"category":"Multi-Drive Server for Windows ",
+		"numberoflicenses":0
+	},{
+		"category":"On-line Extension for ONE UNIX system",
+		"numberoflicenses":0
+	},{
+		"category":"On-line Extension for ONE Windows / Linux system",
+		"numberoflicenses":0
+	},{
+		"category":"Manager-of-Managers Extension for UNIX",
+		"numberoflicenses":999
+	},{
+		"category":"Manager-of-Managers Extension for Windows / Linux",
+		"numberoflicenses":999
+	},{
+		"category":"Extension for ONE 61-250 Slot Library for UNIX",
+		"numberoflicenses":1
+	},{
+		"category":"Extension for ONE 61-250 Slot Library for Windows",
+		"numberoflicenses":1
+	},{
+		"category":"Extension for ONE Unlimited Slot Library UNIX",
+		"numberoflicenses":0
+	},{
+		"category":"Extension for ONE Unlimited Slot Library Windows",
+		"numberoflicenses":0
+	},{
+		"category":"Split Mirror Extension for ONE EMC Symmetrix",
+		"numberoflicenses":0
+	},{
+		"category":"Split Mirror Extension for ONE HPE XP",
+		"numberoflicenses":0
+	},{
+		"category":"Single Server Edition for UNIX",
+		"numberoflicenses":0
+	},{
+		"category":"Single Server Edition for Windows",
+		"numberoflicenses":0
+	},{
+		"category":"On-line Extension for ONE UNIX system",
+		"numberoflicenses":999
+	},{
+		"category":"On-line Extension for ONE Windows / Linux system",
+		"numberoflicenses":999
+	},{
+		"category":"Extension for ONE 61-250 Slot Library",
+		"numberoflicenses":999
+	},{
+		"category":"Extension for ONE 61-250 Slot Library for Windows",
+		"numberoflicenses":999
+	},{
+		"category":"Extension for ONE Unlimited Slot Library",
+		"numberoflicenses":999
+	},{
+		"category":"Extension for ONE Unlimited Slot Library for Windows",
+		"numberoflicenses":999
+	},{
+		"category":"Split Mirror Extension for ONE EMC Symmetrix",
+		"numberoflicenses":0
+	},{
+		"category":"Split Mirror Extension for ONE HPE XP",
+		"numberoflicenses":0
+	},{
+		"category":"Extension for ONE NDMP Server",
+		"numberoflicenses":0
+	},{
+		"category":"Zero Downtime Backup Extension for 1 TB EMC Symmetrix",
+		"numberoflicenses":0
+	},{
+		"category":"Zero Downtime Backup Extension for 1 TB HPE StorageWorks disk array XP",
+		"numberoflicenses":0
+	},{
+		"category":"HPE Data Protector zero downtime backup (ZDB) extension for UNIX - 1 TB",
+		"numberoflicenses":999
+	},{
+		"category":"Instant Recovery Extension for 1 TB HPE StorageWorks disk array XP",
+		"numberoflicenses":0
+	},{
+		"category":"HPE Data Protector instant recovery extension for UNIX - 1 TB",
+		"numberoflicenses":999
+	},{
+		"category":"Direct Backup Extension for 1 TB HPE StorageWorks disk array XP or compatible",
+		"numberoflicenses":999
+	},{
+		"category":"Direct Backup using NDMP for 1 TB",
+		"numberoflicenses":999
+	},{
+		"category":"Direct Backup Extension for 1 TB HPE Surestore VA ",
+		"numberoflicenses":999
+	},{
+		"category":"Zero Downtime Backup Extension for 1 TB HPE StorageWorks Smart Array MSA 1000",
+		"numberoflicenses":0
+	},{
+		"category":"Instant Recovery Extension for 1 TB HPE StorageWorks Smart Array MSA 1000",
+		"numberoflicenses":0
+	},{
+		"category":"Advanced backup to disk",
+		"numberoflicenses":999
+	},{
+		"category":"Backup to HPE IAP",
+		"numberoflicenses":0
+	},{
+		"category":"Encryption Extension for one client system",
+		"numberoflicenses":0
+	},{
+		"category":"HPE DP Granular Recovery Extension",
+		"numberoflicenses":999
+	},{
+		"category":"HPE Data Protector zero downtime backup (ZDB) extension for Windows - 1 TB",
+		"numberoflicenses":999
+	},{
+		"category":"HPE Data Protector instant recovery extension for Windows - 1 TB",
+		"numberoflicenses":999
+	},{
+		"category":"HPE Data Protector zero downtime backup (ZDB) extension for Linux - 1 TB",
+		"numberoflicenses":999
+	},{
+		"category":"HPE Data Protector instant recovery extension for Linux - 1 TB",
+		"numberoflicenses":999
+	},{
+		"category":"HPE Data Protector Zero Downtime Backup non HPE arrays Unix 1TB",
+		"numberoflicenses":999
+	},{
+		"category":"HPE Data Protector Zero Downtime Backup non HPE arrays Linux 1TB",
+		"numberoflicenses":999
+	},{
+		"category":"HPE Data Protector Zero Downtime Backup non HPE arrays Windows 1TB",
+		"numberoflicenses":999
+	},{
+		"category":"HPE Data Protector Instant Recovery non HPE arrays Unix 1TB",
+		"numberoflicenses":999
+	},{
+		"category":"HPE Data Protector Instant Recovery non HPE arrays Linux 1TB",
+		"numberoflicenses":999
+	},{
+		"category":"HPE Data Protector Instant Recovery non HPE arrays Windows 1TB",
+		"numberoflicenses":999
+	},{
+		"category":"HPE Data Protector Extended On-line Backup for Win/Lin Software",
+		"numberoflicenses":999
+	}],
+	"capacitybasedlicensing":[{
+		"backuptype":"MS Filesystem",
+		"totalprotecteddata":"0 GB"
+	},{
+		"backuptype":"MS SQL",
+		"totalprotecteddata":"0 GB"
+	},{
+		"backuptype":"Oracle",
+		"totalprotecteddata":"4 GB"
+	},{
+		"backuptype":"SAP",
+		"totalprotecteddata":"2 GB"
+	},{
+		"backuptype":"UNIX Filesystem",
+		"totalprotecteddata":"0 GB"
+	},{
+		"backuptype":"Virtual Environment",
+		"totalprotecteddata":"1 GB"
+	}],
+	"backupsize":[{
+		"hostname":"868208683",
+		"application":"C:",
+		"totalsize":"215028 KB",
+		"objecttype":"WINFS"
+	},{
+		"hostname":"4045370454",
+		"application":"VEAgentDisk",
+		"totalsize":"669704 KB",
+		"objecttype":"OB2BAR"
+	},{
+		"hostname":"3951402952",
+		"application":"/",
+		"totalsize":"443584 KB",
+		"objecttype":"FILESYSTEM"
+	},{
+		"hostname":"3951402952",
+		"application":"Oracle8",
+		"totalsize":"2292040 KB",
+		"objecttype":"OB2BAR"
+	},{
+		"hostname":"868208683",
+		"application":"IDB",
+		"totalsize":"209812 KB",
+		"objecttype":"OB2BAR"
+	},{
+		"hostname":"3396956229",
+		"application":"MSSQL",
+		"totalsize":"10064 KB",
+		"objecttype":"OB2BAR"
+	},{
+		"hostname":"4045370454",
+		"application":"VEAgent",
+		"totalsize":"6 KB",
+		"objecttype":"OB2BAR"
+	},{
+		"hostname":"1626583012",
+		"application":"/dp_depot",
+		"totalsize":"247853 KB",
+		"objecttype":"FILESYSTEM"
+	},{
+		"hostname":"1373387818",
+		"application":"VEAgentDisk",
+		"totalsize":"686092 KB",
+		"objecttype":"OB2BAR"
+	},{
+		"hostname":"1373387818",
+		"application":"VEAgent",
+		"totalsize":"8 KB",
+		"objecttype":"OB2BAR"
+	},{
+		"hostname":"2404179664",
+		"application":"MSSQL",
+		"totalsize":"2612 KB",
+		"objecttype":"OB2BAR"
+	},{
+		"hostname":"4174515232",
+		"application":"Oracle8",
+		"totalsize":"2095864 KB",
+		"objecttype":"OB2BAR"
+	},{
+		"hostname":"3951402952",
+		"application":"SAP",
+		"totalsize":"5517664 KB",
+		"objecttype":"OB2BAR"
+	}]
+}

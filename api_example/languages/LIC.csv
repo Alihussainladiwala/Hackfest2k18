@@ -1,0 +1,192 @@
+category,value
+Cell Manager for UNIX,1
+Cell Manager for Windows / Linux,1
+Single Drive for UNIX / NAS / SAN,999
+Single Drive for Windows / Linux,999
+Multi-Drive Server for UNIX,0
+Multi-Drive Server for Windows ,0
+On-line Extension for ONE UNIX system,999
+On-line Extension for ONE Windows / Linux system,999
+Manager-of-Managers Extension for UNIX,999
+Manager-of-Managers Extension for Windows / Linux,999
+Extension for ONE 61-250 Slot Library for UNIX,1
+Extension for ONE 61-250 Slot Library for Windows,999
+Extension for ONE Unlimited Slot Library UNIX,0
+Extension for ONE Unlimited Slot Library Windows,0
+Split Mirror Extension for ONE EMC Symmetrix,0
+Split Mirror Extension for ONE HPE XP,0
+Single Server Edition for UNIX,0
+Single Server Edition for Windows,0
+Extension for ONE 61-250 Slot Library,999
+Extension for ONE Unlimited Slot Library,999
+Extension for ONE Unlimited Slot Library for Windows,999
+Extension for ONE NDMP Server,0
+Zero Downtime Backup Extension for 1 TB EMC Symmetrix,0
+Zero Downtime Backup Extension for 1 TB HPE StorageWorks disk array XP,0
+HPE Data Protector zero downtime backup (ZDB) extension for UNIX - 1 TB,999
+Instant Recovery Extension for 1 TB HPE StorageWorks disk array XP,0
+HPE Data Protector instant recovery extension for UNIX - 1 TB,999
+Direct Backup Extension for 1 TB HPE StorageWorks disk array XP or compatible,999
+Direct Backup using NDMP for 1 TB,999
+Direct Backup Extension for 1 TB HPE Surestore VA ,999
+Zero Downtime Backup Extension for 1 TB HPE StorageWorks Smart Array MSA 1000,0
+Instant Recovery Extension for 1 TB HPE StorageWorks Smart Array MSA 1000,0
+Advanced backup to disk,999
+Backup to HPE IAP,0
+Encryption Extension for one client system,0
+HPE DP Granular Recovery Extension,999
+HPE Data Protector zero downtime backup (ZDB) extension for Windows - 1 TB,999
+HPE Data Protector instant recovery extension for Windows - 1 TB,999
+HPE Data Protector zero downtime backup (ZDB) extension for Linux - 1 TB,999
+HPE Data Protector instant recovery extension for Linux - 1 TB,999
+HPE Data Protector Zero Downtime Backup non HPE arrays Unix 1TB,999
+HPE Data Protector Zero Downtime Backup non HPE arrays Linux 1TB,999
+HPE Data Protector Zero Downtime Backup non HPE arrays Windows 1TB,999
+HPE Data Protector Instant Recovery non HPE arrays Unix 1TB,999
+HPE Data Protector Instant Recovery non HPE arrays Linux 1TB,999
+HPE Data Protector Instant Recovery non HPE arrays Windows 1TB,999
+HPE Data Protector Extended On-line Backup for Win/Lin Software,999
+Cell Manager for UNIX,1
+Cell Manager for Windows / Linux,1
+Single Drive for UNIX / NAS / SAN,999
+Single Drive for Windows / Linux,999
+Multi-Drive Server for UNIX,0
+Multi-Drive Server for Windows ,0
+On-line Extension for ONE UNIX system,999
+On-line Extension for ONE Windows / Linux system,999
+Manager-of-Managers Extension for UNIX,999
+Manager-of-Managers Extension for Windows / Linux,999
+Extension for ONE 61-250 Slot Library for UNIX,1
+Extension for ONE 61-250 Slot Library for Windows,999
+Extension for ONE Unlimited Slot Library UNIX,0
+Extension for ONE Unlimited Slot Library Windows,0
+Split Mirror Extension for ONE EMC Symmetrix,0
+Split Mirror Extension for ONE HPE XP,0
+Single Server Edition for UNIX,0
+Single Server Edition for Windows,0
+Extension for ONE 61-250 Slot Library,999
+Extension for ONE Unlimited Slot Library,999
+Extension for ONE Unlimited Slot Library for Windows,999
+Extension for ONE NDMP Server,0
+Zero Downtime Backup Extension for 1 TB EMC Symmetrix,0
+Zero Downtime Backup Extension for 1 TB HPE StorageWorks disk array XP,0
+HPE Data Protector zero downtime backup (ZDB) extension for UNIX - 1 TB,999
+Instant Recovery Extension for 1 TB HPE StorageWorks disk array XP,0
+HPE Data Protector instant recovery extension for UNIX - 1 TB,999
+Direct Backup Extension for 1 TB HPE StorageWorks disk array XP or compatible,999
+Direct Backup using NDMP for 1 TB,999
+Direct Backup Extension for 1 TB HPE Surestore VA ,999
+Zero Downtime Backup Extension for 1 TB HPE StorageWorks Smart Array MSA 1000,0
+Instant Recovery Extension for 1 TB HPE StorageWorks Smart Array MSA 1000,0
+Advanced backup to disk,999
+Backup to HPE IAP,0
+Encryption Extension for one client system,0
+HPE DP Granular Recovery Extension,999
+HPE Data Protector zero downtime backup (ZDB) extension for Windows - 1 TB,999
+HPE Data Protector instant recovery extension for Windows - 1 TB,999
+HPE Data Protector zero downtime backup (ZDB) extension for Linux - 1 TB,999
+HPE Data Protector instant recovery extension for Linux - 1 TB,999
+HPE Data Protector Zero Downtime Backup non HPE arrays Unix 1TB,999
+HPE Data Protector Zero Downtime Backup non HPE arrays Linux 1TB,999
+HPE Data Protector Zero Downtime Backup non HPE arrays Windows 1TB,999
+HPE Data Protector Instant Recovery non HPE arrays Unix 1TB,999
+HPE Data Protector Instant Recovery non HPE arrays Linux 1TB,999
+HPE Data Protector Instant Recovery non HPE arrays Windows 1TB,999
+HPE Data Protector Extended On-line Backup for Win/Lin Software,999
+Cell Manager for UNIX,0
+Cell Manager for Windows / Linux,1
+Single Drive for UNIX / NAS / SAN,0
+Single Drive for Windows / Linux,2
+Multi-Drive Server for UNIX,0
+Multi-Drive Server for Windows ,0
+On-line Extension for ONE UNIX system,0
+On-line Extension for ONE Windows / Linux system,10
+Manager-of-Managers Extension for UNIX,0
+Manager-of-Managers Extension for Windows / Linux,0
+Extension for ONE 61-250 Slot Library for UNIX,0
+Extension for ONE 61-250 Slot Library for Windows,0
+Extension for ONE Unlimited Slot Library UNIX,0
+Extension for ONE Unlimited Slot Library Windows,0
+Split Mirror Extension for ONE EMC Symmetrix,0
+Split Mirror Extension for ONE HPE XP,0
+Single Server Edition for UNIX,0
+Single Server Edition for Windows,0
+Extension for ONE 61-250 Slot Library,0
+Extension for ONE Unlimited Slot Library,0
+Extension for ONE Unlimited Slot Library for Windows,0
+Extension for ONE NDMP Server,0
+Zero Downtime Backup Extension for 1 TB EMC Symmetrix,0
+Zero Downtime Backup Extension for 1 TB HPE StorageWorks disk array XP,0
+HPE Data Protector zero downtime backup (ZDB) extension for UNIX - 1 TB,0
+Instant Recovery Extension for 1 TB HPE StorageWorks disk array XP,0
+HPE Data Protector instant recovery extension for UNIX - 1 TB,0
+Direct Backup Extension for 1 TB HPE StorageWorks disk array XP or compatible,0
+Direct Backup using NDMP for 1 TB,0
+Direct Backup Extension for 1 TB HPE Surestore VA ,0
+Zero Downtime Backup Extension for 1 TB HPE StorageWorks Smart Array MSA 1000,0
+Instant Recovery Extension for 1 TB HPE StorageWorks Smart Array MSA 1000,0
+Advanced backup to disk,30
+Backup to HPE IAP,0
+Encryption Extension for one client system,0
+HPE DP Granular Recovery Extension,1
+HPE Data Protector zero downtime backup (ZDB) extension for Windows - 1 TB,0
+HPE Data Protector instant recovery extension for Windows - 1 TB,0
+HPE Data Protector zero downtime backup (ZDB) extension for Linux - 1 TB,0
+HPE Data Protector instant recovery extension for Linux - 1 TB,0
+HPE Data Protector Zero Downtime Backup non HPE arrays Unix 1TB,0
+HPE Data Protector Zero Downtime Backup non HPE arrays Linux 1TB,0
+HPE Data Protector Zero Downtime Backup non HPE arrays Windows 1TB,0
+HPE Data Protector Instant Recovery non HPE arrays Unix 1TB,0
+HPE Data Protector Instant Recovery non HPE arrays Linux 1TB,0
+HPE Data Protector Instant Recovery non HPE arrays Windows 1TB,0
+HPE Data Protector Extended On-line Backup for Win/Lin Software,0
+Micro Focus Data Protector Express - per CPU,10
+Cell Manager for UNIX,1
+Cell Manager for Windows / Linux,1
+Single Drive for UNIX / NAS / SAN,999
+Single Drive for Windows / Linux,999
+Multi-Drive Server for UNIX,0
+Multi-Drive Server for Windows ,0
+On-line Extension for ONE UNIX system,999
+On-line Extension for ONE Windows / Linux system,999
+Manager-of-Managers Extension for UNIX,999
+Manager-of-Managers Extension for Windows / Linux,999
+Extension for ONE 61-250 Slot Library for UNIX,1
+Extension for ONE 61-250 Slot Library for Windows,999
+Extension for ONE Unlimited Slot Library UNIX,0
+Extension for ONE Unlimited Slot Library Windows,0
+Split Mirror Extension for ONE EMC Symmetrix,0
+Split Mirror Extension for ONE HPE XP,0
+Single Server Edition for UNIX,0
+Single Server Edition for Windows,0
+Extension for ONE 61-250 Slot Library,999
+Extension for ONE Unlimited Slot Library,999
+Extension for ONE Unlimited Slot Library for Windows,999
+Extension for ONE NDMP Server,0
+Zero Downtime Backup Extension for 1 TB EMC Symmetrix,0
+Zero Downtime Backup Extension for 1 TB HPE StorageWorks disk array XP,0
+HPE Data Protector zero downtime backup (ZDB) extension for UNIX - 1 TB,999
+Instant Recovery Extension for 1 TB HPE StorageWorks disk array XP,0
+HPE Data Protector instant recovery extension for UNIX - 1 TB,999
+Direct Backup Extension for 1 TB HPE StorageWorks disk array XP or compatible,999
+Direct Backup using NDMP for 1 TB,999
+Direct Backup Extension for 1 TB HPE Surestore VA ,999
+Zero Downtime Backup Extension for 1 TB HPE StorageWorks Smart Array MSA 1000,0
+Instant Recovery Extension for 1 TB HPE StorageWorks Smart Array MSA 1000,0
+Advanced backup to disk,999
+Backup to HPE IAP,0
+Encryption Extension for one client system,0
+HPE DP Granular Recovery Extension,999
+HPE Data Protector zero downtime backup (ZDB) extension for Windows - 1 TB,999
+HPE Data Protector instant recovery extension for Windows - 1 TB,999
+HPE Data Protector zero downtime backup (ZDB) extension for Linux - 1 TB,999
+HPE Data Protector instant recovery extension for Linux - 1 TB,999
+HPE Data Protector Zero Downtime Backup non HPE arrays Unix 1TB,999
+HPE Data Protector Zero Downtime Backup non HPE arrays Linux 1TB,999
+HPE Data Protector Zero Downtime Backup non HPE arrays Windows 1TB,999
+HPE Data Protector Instant Recovery non HPE arrays Unix 1TB,999
+HPE Data Protector Instant Recovery non HPE arrays Linux 1TB,999
+HPE Data Protector Instant Recovery non HPE arrays Windows 1TB,999
+HPE Data Protector Extended On-line Backup for Win/Lin Software,999
+Cell Manager for Windows / Linux,0
+Single Drive for Windows / Linux,0
